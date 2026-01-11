@@ -1,0 +1,12 @@
+// REQUIREMENTS:
+
+// 1.The application should run from the command line
+// 2.Accept user actions and inputs as arguments
+// 3.Store the tasks in a JSON file. The user should be able to:
+//      3.1.Add, Update, and Delete tasks
+//      3.2.Mark a task as in progress or done
+//      3.3.List all tasks
+//          3.3.1.List all tasks that are done
+//          3.3.2.List all tasks that are not doned
+//          3.3.3.List all tasks that are in progress
+// 4.Handle errors gracefully, such as invalid inputs or file read/write errorsd
